@@ -12,7 +12,7 @@ author: NTBSCI
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutus"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
